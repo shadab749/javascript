@@ -1,0 +1,22 @@
+#clock {
+  font-size: 100px;
+  border-radius: 35px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  width: 50%;
+  border: 2px solid #00aeff;
+  background: #00aeff65;
+  color: #006c9e;
+}
+/*# sourceMappingURL=style.css.map */
+
+/* body{
+  background: #000 !important;
+} */
+
+
+div[data-name] {
+  pointer-events: none;
+}
